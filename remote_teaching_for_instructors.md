@@ -1,4 +1,4 @@
-**Remote Teaching Considerations for Instructors**
+# Remote Teaching Considerations for Instructors
 
 ### Introduction
 
