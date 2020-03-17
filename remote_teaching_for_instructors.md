@@ -22,13 +22,15 @@ We recommend the following guides on remote teaching and learning for reading:
 
 ### Attendee Technology Setup: At least 3 Days Prior to Class
 
-1. Students will receive reminders from Saba/Harvard Training Portal that are auto-generated. When communicating with your registrants, ensure that you are clear on which reminders you are referencing -- HTP-generated reminders versus ones that originate from RCS or instructors.
-2. Three to seven days prior to class, send out the class reminder and additional information:
-   2. Installation instructions, or link to instructions. These should include measures of success: &#39;your installation is correct if you see this on your screen…&#39;
-   2. Include information on pre-class support &amp; contact person: If attendees do not have a successful installation, they must contact the instructor or class support person \*the day prior\* to the class. _It will be very hard to provide on-the-spot installation support at the very start of class, so we expect students to be prepared in_ _advance_ _of the class._
-   2. Include a document of Zoom setup and expected behavior/etiquette. Attendees should ensure the Zoom client is installed, and their microphone and video camera work. Attendees should also know how to screen share within Zoom and to invite another person to control his/her computer.
-   2. Include any handouts or links to handouts.
-3. Please verify with Liz that \*all\* attendees have an email address registered in the HTP.
+1. Students will receive reminders from Saba/Harvard Training Portal that are auto-generated.
+ When communicating with your registrants, ensure that you are clear on which reminders you
+  are referencing -- HTP-generated reminders versus ones that originate from RCS or instructors.
+1. Three to seven days prior to class, send out the class reminder and additional information:
+   1. Installation instructions, or link to instructions. These should include measures of success: &#39;your installation is correct if you see this on your screen…&#39;
+   1. Include information on pre-class support &amp; contact person: If attendees do not have a successful installation, they must contact the instructor or class support person \*the day prior\* to the class. _It will be very hard to provide on-the-spot installation support at the very start of class, so we expect students to be prepared in_ _advance_ _of the class._
+   1. Include a document of Zoom setup and expected behavior/etiquette. Attendees should ensure the Zoom client is installed, and their microphone and video camera work. Attendees should also know how to screen share within Zoom and to invite another person to control his/her computer.
+   1. Include any handouts or links to handouts.
+1. Please verify with Liz that \*all\* attendees have an email address registered in the HTP.
 
 ### Day Prior to Class
 
