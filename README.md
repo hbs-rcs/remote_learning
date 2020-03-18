@@ -1,4 +1,4 @@
-# Remote Larning
+# Remote Learning
 
 This repository is an opportunity to provide guidance and some best practices about how to
 transition our in-class, Carpentries-style instruction to completely remote, online learning.
