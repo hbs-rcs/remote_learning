@@ -24,7 +24,7 @@ Harvard Business School Online Learning & IT Guides
 [@rkhetani](https://github.com/rkhetani) & the [HCSPH Bioinformatics Core](https://github.com/hbctraining) -- [Online Bioinformatics Training](https://github.com/hbctraining/bioinformatics_online)    
 [@elliewix](https://github.com/elliewix) - [Tips for live teching tech online](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)    
 [@carpentries](https://github.com/carpentries) - [Using Zoom for online trainings](https://github.com/carpentries)    
-From Australian Research Data Commons - ARDC(https://www.youtube.com/channel/UClbZWqIv8Si0siuizaxAS1A) - [Virtual Software Carpentry Workshops - key learnings to make it a success](https://www.youtube.com/watch?v=MzsJyOkxqv8&t=31s)
+[Australian Research Data Commons - ARDC](https://www.youtube.com/channel/UClbZWqIv8Si0siuizaxAS1A) - [Virtual Software Carpentry Workshops - key learnings to make it a success](https://www.youtube.com/watch?v=MzsJyOkxqv8&t=31s)
 
 
 
