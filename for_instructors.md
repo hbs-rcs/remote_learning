@@ -14,11 +14,11 @@ though likely solutions exist in other video conferencing software.
 
 We recommend the following guides on remote teaching and learning for reading:
 
-  * [https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)     PLEASE READ
-  * *[https://carpentries.github.io/instructor-training/guide/index.html#zoom](https://carpentries.github.io/instructor-training/guide/index.html#zoom)    PLEASE READ
-[https://teachremotely.harvard.edu/best-practices](https://teachremotely.harvard.edu/best-practices)
-  * *[http://www.russpoldrack.org/2020/01/talking-remotely-lessons-learned-so-far.html](http://www.russpoldrack.org/2020/01/talking-remotely-lessons-learned-so-far.html)
-  * *[https://github.com/jfiksel/github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers)
+  * [Elizabeth Wickes' Live Teaching Tech Online](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)    Please read!
+  * [The Carpentries' Instructor Training Guide (Zoom info)](https://carpentries.github.io/instructor-training/guide/index.html#zoom)    Please read!
+  * [Harvard's Best Practices for Teaching Remotely](https://teachremotely.harvard.edu/best-practices)
+  * [Russ Poldrack's Lessons Learned from Giving Remote Talks](http://www.russpoldrack.org/2020/01/talking-remotely-lessons-learned-so-far.html)
+  * [JFiskel's Github Classroom for Teachers](https://github.com/jfiksel/github-classroom-for-teachers)
 
 ### Presenter Materials & Preparation
 
@@ -44,7 +44,7 @@ We recommend the following guides on remote teaching and learning for reading:
    * Alternative Hosts: optional to put the 2ndary helpers email address here
    
 
-### Attendee Technology Setup: At least 3 Days Prior to Class
+### Attendee Technology Setup (>= 3 Days Prior to Class)
 
 Note: Students will receive reminders from Saba/Harvard Training Portal that are auto-generated.
 When communicating with your registrants, ensure that you are clear on which reminders you
@@ -74,7 +74,7 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
       using breakout rooms.
    
 
-### Presenter and Helper Technology Setup
+### Presenter & Helper Technology Setup
 
 1. The primary helper should be the host of the class, and thus has sole control of
    the breakout rooms.
