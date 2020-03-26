@@ -69,14 +69,14 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
       Attendees should also know how to screen share within Zoom and to invite another 
       person to control his/her computer.
    1. *Include handouts or links* to handouts.
-   1. Ask to attendees to relay any accessiblity concerns.
-   1. Also ask the attendees if they wish to be paired with a work colleague during exercises
+   1. Ask to attendees to *relay any accessibility concerns*.
+   1. Also ask the attendees *if they wish to be paired with a work colleague* during exercises
       using breakout rooms.
    
 
 ### Presenter and Helper Technology Setup
 
-1. The primary helper should be the host of the class. As a result, she has sole control
+1. The primary helper should be the host of the class, and thus has sole control of
    the breakout rooms.
 
 1. Both helpers should work with the instructor to monitor Chat, Attendees window changes
@@ -91,12 +91,12 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
      order of hands.
    * Attendees can type in the chat window &quot;/hand&quot;, &quot;/hand[topic]&quot;, 
      or &quot;/q[insert question]&quot;. This option captures the queue of questions, and 
-     also gives a running log of what transpired. This is likely the best option for those
-     with accessibility concerns or using screen readers.
+     also gives a running log of what transpired. *This is likely the best option for those
+     with accessibility concerns or using screen readers.*
    * Attendees can simply unmute themselves and interrupt the instructor.
    
-1. No matter the method, the process used is at the discretion of the instructor and this
-   should be discussed with attendees at the class start.
+1. No matter the method, the process used is at the discretion of the instructor, and this
+   should be discussed at the class start with the Zoom/class norms.
    
 1. Preserving the conversation of the class can also be helpful, esp. as there are multiple 
    focal points that everyone must track (notes, chat, video, one&#39;s own work/analysis 
@@ -106,13 +106,13 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
      and also allows you to manage the order of questions.
    * Use chat for questions for the instructor, minor questions for everyone, and sidebar 
      conversations (if allowed). It is especially helpful to save the chat transcript:
-     * Encourage the attendees to save the chant manually.
-     * change the default settings so that the chat transcript is automatically saved 
+     * Encourage the attendees to save the chat themselves before the class ends.
+     * Change the default settings so the chat transcript is automatically saved 
        when the session ends. For Zoom, choose Settings &gt; Advanced 
       Features &gt; View Advanced Features &gt; Settings &gt; In Meeting (Basic) &gt; Auto 
       saving chats.
 
-1. Offer through the class reminder and at the start of exercises to pair up colleagues
+1. Via the class reminder and at the start of exercises, offer to pair up colleagues
    while working on exercises in breakout rooms. Breakout rooms can be assigned manually
    prior to the class or on-the-fly. 
    
@@ -120,14 +120,17 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
 ### Day Prior to Class
 
 1. Schedule 30-minute tech support sessions via Zoom with your support / 
-   teaching team, and ensure that your video conferencing software has the &#39;remote help 
+   teaching team, and ensure that the video conferencing software has the &#39;remote help 
    desk&#39; or &#39;take control&#39; option turned on.
    
-1. Please send out the reminder notice again. Since there is often turnover in confirmed 
-   attendees due to drop outs, it is necessary that everyone receive the instructions 
+1. Send out the reminder notice again. Since there is often turnover in confirmed 
+   attendees due to drop-outs, it is necessary to send the instructions 
    several times.
    
-1. If sufficient time and the class list is final, prepare the Breakout Rooms in advance.
+1. If sufficient time and the class list is final, prepare the breakout rooms in advance.
+
+1. If using in-class Polls, if possible set those up prior to the class as well.
+
 
 ### Day of Class - Getting Started
 
@@ -141,11 +144,14 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
      This will allow both helpers /attendees to jump into a breakout room by assignment from
      the primary helper or by choice from the attendee.
    * Make the instructor and other helper co-hosts of the session.
+
+1. Start the session early, as people may need time to adjust and get comfortable. Similarly,
+   offer to linger after class to answer questions.
       
 1. Ensure that everyone entering the session has their microphone muted, and should remain
    muted unless talking. 
    
-1. Welcome everyone and briefly introduce yourself
+1. Welcome everyone and briefly introduce yourself.
 
 1. Briefly communicate the Zoom session norms:
    * All should have their mic muted when not talking.
@@ -154,28 +160,27 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    * State how the chat can or should be used.
    * Communicate your preference for requesting help.
    
-Note: Using video in class for all attendees is strongly recommended, as if they were
+   Note: Using video in class for all attendees is strongly recommended, as if they were
    present there in the class. But do give individuals permission to turn off video as
    needed (eating, taking a break, etc). Please also suggest that alternative backgrounds
-   and the &#39;touch up appearance&#39; setting can be used if people feel at all uncomfortable.
+   and the &#39;Touch up appearance&#39; setting can be used if people feel at all uncomfortable.
 
-1. Per our usual routine, after introducing yourself and your skills / background, have
-   everyone say a few words about themselves. Encouraging attendees talking and talking
-   to one another early helps create a more friendly, conducive learning environment, so
-   that all feel engaged and more comfortable participating.
+1. Have everyone say a few words about themselves after introducing yourself and your 
+   skills / background. Include the helpers in these introductions as well. Both encouraging 
+   attendees to talk and to talk to one another early helps create a more friendly, 
+   conducive learning environment, so that all feel engaged and more comfortable participating.
    
-1. Finally, after introductions and expectations/norms, one an optionally point out some
-   of the Zoom features. Do show 
-   students the difference between speaker view and gallery view, so each can choose 
-   one&#39;s preferred setting, and other settings that might help with the remote 
-   learning experience.
+1. Optionally point out some of the Zoom features after the introductions and 
+   expectations/norms. Do show students the difference between Speaker and Gallery Views
+   (so each can choose one&#39;s preferred setting) and other settings that might help with
+   the remote learning experience.
 
 
 ### Day of Class - Questions &amp; Exercises
 
-1. The primary helper can notify the instructor on raised hands or if questions are posted in chat.
+1. The helpers can notify the instructor on raised hands or if questions are posted in chat.
 
-1. Do call on the attendee by name, and ask her to ask the question either via unmuting
+1. Do call on the attendee by name, and direct her to ask the question either via unmuting
    or posting it in chat. This process adds variety to the online experience and facilitates 
    broad participation by all attendees.
 
@@ -184,25 +189,24 @@ Note: Using video in class for all attendees is strongly recommended, as if they
    done on-the-fly or with questions prepared in advanced.
    
 1. Use methods to encourage full participation:
-   * Have students indicate -1, 0, or +1 in the chat for their thoughts on progress or 
-     agreement with a given question
-   * Using different phrases or questions to reach different groups of attendees:
+   * Have students indicate -1, 0, or +1 in the chat for their thoughts on their progress or 
+     their agreement with a given question.
+   * Use different phrases or questions to reach different groups of attendees:
      * "Can I get about 3 people wanting to talk who haven’t yet?"
      * "Who is new to XXX that might want to answer this?""
      * "Who's not feeling it? You've got the floor."
    * Take the opportunity to call out an individual to explain more via audio.
 
-1. Remind people about the use of breakout rooms when starting exercises.
-
-1. Breakout rooms can be assigned manually prior to class or on-the-fly. If there is 
-   consensus from the class, the host can randomly assign people to breakout rooms 
+1. Remind people about the use of breakout rooms when starting exercises. These can be 
+   assigned manually prior to class or on-the-fly. If there is 
+   consensus from the class, the host can randomly assign people to the rooms 
    (sorry, one cannot use both options).
    
-1. Be sure to verify all the Breakout Room options, esp. &quot;Allow participants to return
-   to the main session at any time&quot;.
+1. Be sure to verify all the Breakout Room options, (the Options button in the Breakout Rooms
+   window) esp. &quot;Allow participants to return to the main session at any time&quot;.
 
-1. For breaks and exercises, use an on-screen timer so all attendees know how much time 
-   remains. And reconvene the class by saying &#39;hello&#39;.
+1. Break every hour; and for breaks and exercises, use an on-screen timer so all attendees
+   know how much time remains. Reconvene the class by saying &#39;hello&#39;.
 
 
 ### Day of Class - Support
@@ -215,19 +219,21 @@ troubleshooting while not distracting the class:
    * She should get the attention of the instructor or helpers via the class Zoom norms.
    * Call on the attendee by name and have her explain the problem.
 
-1. Make use of teachable moments. If this is a problem that other students have, is a 
-   problem that researchers commonly have, and can be solved in 2 minutes or less, solve 
-   the problem together with the class via screen sharing and/or remote control.
-   Everyone benefits from problem solving in real-time. And encourage capable class members
-   to help find, review, and recommend solutions.
+1. Make use of teachable moments. If this is a problem that other students have or is a 
+   problem that researchers commonly have, and this can be handled in less than 2 or 3 minutes,
+   solve the problem together with the class via Screen Sharing and/or Remote Control.
+   Everyone benefits from problem solving in real-time. Also encourage capable class members
+   to help find, review, and recommend solutions. But do allow the person to politely
+   decline the public assistance.
    
 1. Use private chats to help troubleshoot other problems. Click on the name of the person in 
-   chat or select Chat in the Attendee window or on the video of the person.
+   chat or select Chat in the Attendee window or on the video of the person. This will redirect
+   future chat messages to that person only.
 
 1. Use breakout rooms for more focused support. 
    * Ask the session host to send the student to the breakout room.
-   * The helper can join the breakout rooms on her own, and move among them freely once
-     there -- use the Breakout Rooms button on the Zoom controls.
+   * A helper can join the breakout rooms on her own, and move among them freely once
+     there, via the Breakout Rooms button on the Zoom controls.
    * Screen sharing and remote control options are available to persons in the breakout rooms.
    * Both should be able to leave the breakout room at any time. If not, ask the host to
      change this setting in the Breakout Rooms window.
