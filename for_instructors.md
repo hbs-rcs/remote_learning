@@ -1,5 +1,15 @@
 # Remote Teaching Considerations for Instructors
 
+Contents
+* [Introduction](#introduction)
+* [Presenter Materials & Preparation](#presenter-materials--preparation)
+* [Attendee Technology Setup (>= 3 Days Prior to Class)](#attendee-technology-setup--3-days-prior-to-class)
+* [Presenter & Helper Technology Setup](#presenter--helper-technology-setup)
+* [Day Prior to Class](#day-prior-to-class)
+* [Day of Class - Getting Started](#day-of-class---getting-started)
+* [Day of Class - Questions &amp; Exercises](#day-of-class---questions--exercises)
+* [Day of Class - Support](#day-of-class---support)
+
 ### Introduction
 
 This document is an attempt to list all many points that need to be considered when planning 
