@@ -53,6 +53,9 @@ We recommend the following guides on remote teaching and learning for reading:
    * Automatically record meeting - On
    * Alternative Hosts: optional to put the 2ndary helpers email address here
    
+   Also see our [recommended Zoom settings](zoom_settings.md), and Zoom's
+   [detailed settings description](https://support.zoom.us/hc/en-us/articles/201362623-Changing-settings-in-the-desktop-client-or-mobile-app).
+   
 
 ### Attendee Technology Setup (>= 3 Days Prior to Class)
 
@@ -138,13 +141,22 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    several times.
    
 1. If sufficient time and the class list is final, prepare the breakout rooms in advance.
+   See [Zoom's guide on Breakout Rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Video-Breakout-Rooms).
 
-1. If using in-class Polls, if possible set those up prior to the class as well.
+1. Consider using in-class [Zoom Polls](https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-Meetings),
+   and if possible set those up prior to the class as well.
 
 
 ### Day of Class - Getting Started
 
 1. Be prepared to have fun, despite the gymnastics ahead!
+
+1. Verify your surroundings, lighting, camera, and microphone. Fill up your water bottle,
+   and grab a snack or two.
+   
+1. Verify your two-monitor layout -- presentation should be
+   on the smaller screen -- or arrange your notes stand. [Live coding](https://carpentries.github.io/instructor-training/14-live/index.html)
+   is a skill, and proper setup helps both you and the attendees.
 
 1. When starting the Zoom meeting session:
    * Ensure that all persons entering the session are muted: Click on
@@ -161,7 +173,7 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
 1. Ensure that everyone entering the session has their microphone muted, and should remain
    muted unless talking. 
    
-1. Welcome everyone and briefly introduce yourself.
+1. Welcome everyone and briefly introduce yourself. Always remember to look into the camera.
 
 1. Briefly communicate the Zoom session norms:
    * All should have their mic muted when not talking.
@@ -169,6 +181,8 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    * Show attendees names on the video screens, and ask to rename them if needed
    * State how the chat can or should be used.
    * Communicate your preference for requesting help.
+   * Zoom is accessibility-needs capable. Point this out and the appropriate settings.
+   * Any others you feel are appropriate.
    
    Note: Using video in class for all attendees is strongly recommended, as if they were
    present there in the class. But do give individuals permission to turn off video as
@@ -184,6 +198,15 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    expectations/norms. Do show students the difference between Speaker and Gallery Views
    (so each can choose one&#39;s preferred setting) and other settings that might help with
    the remote learning experience.
+   
+1. Final suggestions for your successful class:
+   * Remember to look at the camera.
+   * If you are fighting with something they cannot see, explain what you are doing, as they
+     might think their connection is frozen.
+   * Try to laugh off problems. These happen to everyone, and this will help the Students
+     be less self-conscious as well!
+   * Break every hour; and for breaks and exercises, use an on-screen timer so all attendees
+     know how much time remains. Reconvene the class by saying &#39;hello&#39;.
 
 
 ### Day of Class - Questions &amp; Exercises
@@ -200,7 +223,7 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    
 1. Use methods to encourage full participation:
    * Have students indicate -1, 0, or +1 in the chat for their thoughts on their progress or 
-     their agreement with a given question.
+     their agreement with a given question. Or use the thumbs up/down icons.
    * Use different phrases or questions to reach different groups of attendees:
      * "Can I get about 3 people wanting to talk who haven’t yet?"
      * "Who is new to XXX that might want to answer this?""
@@ -214,9 +237,6 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    
 1. Be sure to verify all the Breakout Room options, (the Options button in the Breakout Rooms
    window) esp. &quot;Allow participants to return to the main session at any time&quot;.
-
-1. Break every hour; and for breaks and exercises, use an on-screen timer so all attendees
-   know how much time remains. Reconvene the class by saying &#39;hello&#39;.
 
 
 ### Day of Class - Support
@@ -232,9 +252,11 @@ troubleshooting while not distracting the class:
 1. Make use of teachable moments. If this is a problem that other students have or is a 
    problem that researchers commonly have, and this can be handled in less than 2 or 3 minutes,
    solve the problem together with the class via Screen Sharing and/or Remote Control.
-   Everyone benefits from problem solving in real-time. Also encourage capable class members
-   to help find, review, and recommend solutions. But do allow the person to politely
+   Everyone benefits from problem solving in real-time.  But do allow the person to politely
    decline the public assistance.
+   
+1. Also encourage capable class members to help find, review, and recommend solutions. Make
+   use of their expertise and foster collaboration.
    
 1. Use private chats to help troubleshoot other problems. Click on the name of the person in 
    chat or select Chat in the Attendee window or on the video of the person. This will redirect
