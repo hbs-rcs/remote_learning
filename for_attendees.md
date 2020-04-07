@@ -1,5 +1,14 @@
 ## Remote Learning Instructions for Workshop Attendees
 
+Contents
+* [Introduction](#introduction)
+* [Zoom / Video Conference Setup](#zoom--video-conference-setup)
+* [Attendee Technology Setup (>= 3 Days Prior to Class)](#attendee-technology-setup--3-days-prior-to-class)
+* [Workshop Preparation](#workshop-preparation)
+* [Day of Class - Getting Started](#day-of-class---getting-started)
+* [Day of Class - Questions &amp; Exercises](#day-of-class---questions--exercises)
+* [Day of Class - Help and Support](#day-of-class---help-and-support)
+
 ### Introduction
 
 This document lists points to consider when attending a workshop that offers a remote option
