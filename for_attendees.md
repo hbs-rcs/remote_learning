@@ -1,4 +1,4 @@
-# Remote Learning Instructions for Workshop Attendees
+## Remote Learning Instructions for Workshop Attendees
 
 ### Introduction
 
@@ -13,6 +13,7 @@ For the purposes of this document, we will highlight solutions in [Zoom](http://
 though solutions exist in other video conferencing software. A number of useful Zoom guides
 are available at [Zoom Support](https://support.zoom.us/) and 
 [Zoom Support during the COVID-19 pandemic](https://zoom.us/docs/en-us/covid19.html).
+ 
 
 ### Zoom / Video Conference Setup
 
@@ -129,3 +130,6 @@ Some thoughts and simple guidelines:
    them with these functions.
 
 Last but not least, don't forget to have fun!!
+
+(A condensed version of [this document as a checklist](checklist_attendees.md) is also available.)
+
