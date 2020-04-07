@@ -158,6 +158,9 @@ are referencing -- HTP-generated reminders versus ones that originate from RCS o
    on the smaller screen -- or arrange your notes stand. [Live coding](https://carpentries.github.io/instructor-training/14-live/index.html)
    is a skill, and proper setup helps both you and the attendees.
 
+1. If using only one large monitor, lower the resolution so that the screen sharing does
+   not result in small fonts and windows for attendees.
+
 1. When starting the Zoom meeting session:
    * Ensure that all persons entering the session are muted: Click on
      Manage Attendees &gt; Attendees window More button &gt; select &quot;Mute Attendees
