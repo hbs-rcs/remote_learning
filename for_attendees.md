@@ -23,6 +23,7 @@ though solutions exist in other video conferencing software. A number of useful 
 are available at [Zoom Support](https://support.zoom.us/) and 
 [Zoom Support during the COVID-19 pandemic](https://zoom.us/docs/en-us/covid19.html).
  
+After you have reviewed this document, use [this checklist](checklist_attendees.md) to ensure you're ready.
 
 ### Zoom / Video Conference Setup
 
