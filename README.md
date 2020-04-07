@@ -12,6 +12,8 @@ These resources are not exhaustive; and we urge the community to contribute (see
 * [Guidelines for Instructors](for_instructors.md)
 * [Guidelines for Attendees](for_attendees.md)
 * Preparation and In-class Checklists
+  * [Checklist for Attendees](checklist_attendees.md)
+  * Checklist for Instructors
 * [Recommended Zoom Settings](zoom_settings.md)
 
 ***
