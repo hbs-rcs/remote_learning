@@ -1,4 +1,7 @@
-# Remote Learning Checklist for Workshop Attendees
+## Remote Learning Checklist for Workshop Attendees
+
+For full details and instructions, please see the more complete Remote Learning
+[Guidelines for Attendees](for_attendees.md).
 
 ### Days Prior to Class
 1. Install required software from class reminder
